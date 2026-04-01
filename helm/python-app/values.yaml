@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: ""
+  repository: ahmad09x/python-flask-app
   tag: "latest"
   pullPolicy: Always
 
