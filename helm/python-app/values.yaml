@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ahmad09x/python-flask-app
-  tag: "1809144"
+  tag: "1ed1547"
   pullPolicy: Always
 
 service:
