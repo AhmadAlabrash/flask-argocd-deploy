@@ -4,6 +4,9 @@ This repository implements the **Continuous Deployment (CD)** part of a modern D
 
 It works together with the CI repository, where Docker images are built and pushed to Docker Hub. This repository is responsible for deploying those images to Kubernetes.
 
+![Architecture Diagram](diagram/full-project-diagram.png)
+
+
 ---
 
 ## 📊 Architecture Overview
