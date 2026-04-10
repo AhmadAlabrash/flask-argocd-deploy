@@ -17,6 +17,11 @@ This project follows a **GitOps-based deployment model**:
 GitHub Actions (CI) → Docker Hub → Deploy Repo → Argo CD → Kubernetes
 ```
 
+## ⚙️ System Demo
+
+Watch this system in action:
+
+[![System Demo ▶️](https://img.youtube.com/vi/7pHcaz9TBJQ/maxresdefault.jpg)](https://youtu.be/7pHcaz9TBJQ)
 ---
 
 ## 🧠 Project Overview
